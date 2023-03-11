@@ -1,0 +1,40 @@
+body{
+    
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    font-family: cursive;
+    display: inline-block;
+
+    
+    
+
+  
+    
+  
+  
+    font-style: oblique;
+  
+    
+}
+p{
+    font-family: sans-serif;
+    display: inline-block;
+    font-style: normal;
+    text-decoration: wavy;
+    
+}
+    
+
+.cloi{
+    position:absolute;
+    top:200px;
+    left:300px ;
+}
+.loi{
+    position: absolute;
+    right: 300px;
+    top: 10px;
+}
+
